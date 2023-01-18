@@ -4,7 +4,7 @@ const h3 = document.querySelector("h3");
 const span = document.querySelector("span");
 const img = document.querySelector(".img");
 const icon = document.querySelector(".icon");
-const key = "kOk9b1uT6kxUGWfpd316sZQ4z9VBBkSA";
+const key = "MsIA4NXGLAGFvWO4xPounW2SYSRT0btz";
 
 
 // Get the Weather
